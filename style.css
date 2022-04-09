@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@700&family=Dancing+Script:wght@500&family=Dongle:wght@300&family=Fira+Sans+Condensed:wght@300;400&family=Quicksand:wght@300;400;500;600&display=swap');
+.container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    border-radius: 21px;
+    font-size: 34px;
+    border: 5px solid rgb(4, 11, 73);
+    margin-bottom: 23px;
+    padding-bottom: 23px;
+    font-weight: bolder;
+}
+
+button {
+    font-size: 49px;
+    background: rgb(74, 195, 231);
+    width: 100px;
+    height: 75px;
+    border-radius: 50%;
+    margin: 5px;
+    border: 2px solid rgb(2, 5, 46);
+}
+
+.calculator {
+    border: 5px solid rgb(2, 5, 46);
+    display: inline-block;
+    background: rgb(8, 17, 156);
+    padding: 22px;
+    border-radius: 25px;
+}
+
+button:hover {
+    background: rgb(120, 223, 255);
+}
+
+h1 {
+    font-size: 45px;
+    letter-spacing: 2px;
+    color: rgb(8, 17, 156);
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.name {
+    font-size: 15px;
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
